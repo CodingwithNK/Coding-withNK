@@ -1,0 +1,28 @@
+body {
+
+      font-family: 'Sacramento', cursive;
+}
+
+.row {
+         
+      margin: 50px 50px 50px 50px; 
+      text-align: center;
+
+}
+
+.card:hover {
+
+	  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+}
+
+.container {
+     
+       margin-top: 50px;
+}
+
+
+.button input {
+
+	margin: 0 20px 0 20px;
+}
+
