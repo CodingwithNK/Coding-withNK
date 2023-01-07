@@ -1,6 +1,6 @@
 body {
 
-      font-family: "Times New Roman",Times,serif;
+      font-family: " Times New Roman",serif;
 }
 
 .row {
@@ -26,3 +26,29 @@ body {
 	margin: 0 20px 0 20px;
 }
 
+.offcanvas.offcanvas-start {
+
+      width: 280px;
+}
+
+.offcanvas-body {
+
+      line-height: 35px;
+}
+
+@media (max-width:992px)
+{
+      .bi{
+            visibility: hidden;
+      }
+}
+
+.nav-link:hover {
+
+         color: white;
+}
+
+.active {
+
+      color: white;
+}
